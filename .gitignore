@@ -1,0 +1,5 @@
+# Ignore Microsoft Word documents
+sql/SQL_Query_Doc.docx
+
+# macOS system files
+.DS_Store
